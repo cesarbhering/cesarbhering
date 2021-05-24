@@ -1,5 +1,5 @@
 ## Cesar Bhering 👨‍🦱
-### Estudante de desenvolvimento de software na [Trybe] (www.betrybe.com) 
+### Estudante de desenvolvimento de software na [Trybe](www.betrybe.com) 
 
 #### Buscando aprender mais sobre frameworks de JavaScript, mas com grande curiosidade sobre Python e Java.
 #### Cruzeirense, Brasileiro e filho dos meus pais, não necessariamente nesta ordem :grin:
